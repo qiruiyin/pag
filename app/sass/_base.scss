@@ -1,0 +1,16 @@
+$title_size: 36px;
+$title_span_size: 28px;
+
+html, body {
+  font-family: 'Microsoft YaHei', 'Helvetica Neue', Helvetica, STHeiTi, Arial, sans-serif;
+}
+@font-face{
+  font-family: 'Microsoft YaHei';
+  src: url('../font/msyh.ttf')
+}
+
+img {
+  display: block;
+  border: 0;
+  vertical-align: middle;
+}
